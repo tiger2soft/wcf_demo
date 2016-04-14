@@ -1,0 +1,5 @@
+D:\git\wcf_demo\01.wcf入门\bin\Contracts.dll
+D:\git\wcf_demo\01.wcf入门\bin\Contracts.pdb
+D:\git\wcf_demo\01.wcf入门\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+D:\git\wcf_demo\01.wcf入门\Contracts\obj\Debug\Contracts.dll
+D:\git\wcf_demo\01.wcf入门\Contracts\obj\Debug\Contracts.pdb

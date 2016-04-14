@@ -1,0 +1,5 @@
+D:\git\wcf_demo\01.wcf入门\bin\Services.dll
+D:\git\wcf_demo\01.wcf入门\bin\Services.pdb
+D:\git\wcf_demo\01.wcf入门\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+D:\git\wcf_demo\01.wcf入门\Services\obj\Debug\Services.dll
+D:\git\wcf_demo\01.wcf入门\Services\obj\Debug\Services.pdb

@@ -1,0 +1,6 @@
+D:\git\wcf_demo\01.wcf入门\bin\Client.exe.config
+D:\git\wcf_demo\01.wcf入门\bin\Client.exe
+D:\git\wcf_demo\01.wcf入门\bin\Client.pdb
+D:\git\wcf_demo\01.wcf入门\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\git\wcf_demo\01.wcf入门\Client\obj\Debug\Client.exe
+D:\git\wcf_demo\01.wcf入门\Client\obj\Debug\Client.pdb

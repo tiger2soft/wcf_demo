@@ -1,0 +1,6 @@
+D:\git\wcf_demo\01.wcf入门\bin\Hosting.exe.config
+D:\git\wcf_demo\01.wcf入门\bin\Hosting.exe
+D:\git\wcf_demo\01.wcf入门\bin\Hosting.pdb
+D:\git\wcf_demo\01.wcf入门\Hosting\obj\Debug\Hosting.csprojResolveAssemblyReference.cache
+D:\git\wcf_demo\01.wcf入门\Hosting\obj\Debug\Hosting.exe
+D:\git\wcf_demo\01.wcf入门\Hosting\obj\Debug\Hosting.pdb
